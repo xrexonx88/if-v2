@@ -14,10 +14,22 @@ div {
 
 /* Set up a default font and some padding to provide breathing room */
 body {
+  background-color: #eee;
   font-family: Roboto, "Helvetica Neue", sans-serif;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.content {
+    padding: 50px 0;
+    background-color: #eee;
+}
+.content small {
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .9;
+    margin-right: 10px;
 }
 
 p {
