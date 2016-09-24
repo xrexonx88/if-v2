@@ -2,12 +2,12 @@
   background-color: #1f120a;
   padding: 20px 0 10px;
   color: #999;
-  position:fixed;
   bottom:0px;
   width:100%;
 }
 
 #footerNav a {
+  font-size: 12px;
   color: #999;
 }
 

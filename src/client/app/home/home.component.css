@@ -1,6 +1,6 @@
 :host {
   display: block;
-  padding: 0 16px;
+  /*padding: 0 16px;*/
 }
 
 input {
@@ -10,4 +10,12 @@ input {
 ul {
   list-style-type: none;
   padding: 0 0 0 8px;
+}
+
+.brown {
+  width:100%;
+  background: url(https://iflipd.com/img/bg-books.jpg) no-repeat;
+  background-size: cover;
+  padding: 50px 0 90px;
+  color: #eee;
 }
