@@ -33,6 +33,7 @@ h2 {
 .instructions p {
     line-height: 2em;
     color: #666;
+    margin: 0 0 10px;
 }
 .instructions h3 {
     color: #26484a;
